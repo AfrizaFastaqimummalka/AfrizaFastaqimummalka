@@ -26,7 +26,7 @@
 ### About Me
 
 - 🗡️ I AM SUAMI RAIDEN MEI
-- 🥷 IMPHNEN JALAN NINJAKU
+- 🗡️ IMPHNEN JALAN NINJAKU
 - 🏠 ISEKAI MY HOPE
 - 💬 MIAW IS MIAW **Next.js, Django, Laravel, VB atau web development**
 - 📫 ZONO IS ZONO: [afrizafasta43@gmail.com](mailto:afrizafasta43@gmail.com)
