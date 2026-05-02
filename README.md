@@ -25,11 +25,11 @@
 
 ### About Me
 
-- 🔭 Sedang mengerjakan project web full stack
-- 🌱 Terus belajar hal-hal baru di dunia teknologi
-- 🏠 Based in Indonesia
-- 💬 Tanya saya soal **Next.js, Django, Laravel, atau web development**
-- 📫 Reach me: **[your-email@gmail.com](mailto:your-email@gmail.com)**
+- 🔭 I AM SUAMI RAIDEN MEI
+- 🌱 IMPHNEN JALAN NINJAKU
+- 🏠 ISEKAI MY HOPE
+- 💬 Miaw is Miaw **Next.js, Django, Laravel,VB atau web development**
+- 📫 Reach me: **[afrizafasta43@gmail.com](afrizafasta43@gmail.com)**
 
 <br clear="right"/>
 
