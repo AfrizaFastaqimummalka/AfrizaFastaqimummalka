@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/87b80d82-4c46-4f4b-8a8b-5e177747fbef" alt="banner" width="100%" />
+<img src="https://github.com/user-attachments/assets/d87b16bf-6663-493d-9331-b53ec1cd2d94" alt="banner" width="100%" />
 
 <br/>
 
-<img src="https://github.com/user-attachments/assets/5a0d99bb-d438-4a9e-a90d-be18d3107b5c" width="150px" alt="avatar" />
+<img src="https://github.com/user-attachments/assets/fc9b49f5-9dc7-4c30-8bb8-779b9a278eba" width="150px" alt="avatar" />
 
 <br/>
 
@@ -21,13 +21,13 @@
 
 ---
 
-<img align="right" width="160px" src="https://github.com/user-attachments/assets/ca1a5522-3d76-4a7f-bfe9-8ca2f756f0d1" alt="chibi gif" />
+<img align="right" width="160px" src="https://github.com/user-attachments/assets/e592ccfa-65d7-46d6-98b8-ee0b22ddd552" alt="chibi gif" />
 
 ### About Me
 
-- 🔭 Sedang mengerjakan project web full stack
-- 🌱 Terus belajar hal-hal baru di dunia teknologi
-- 🏠 Based in Indonesia
+- 🗡️ I AM SUAMI RAIDEN MEI
+- 🥷 IMPHNEN JALAN NINJAKU
+- 🏠 ISEKAI MY HOPE
 - 💬 Tanya saya soal **Next.js, Django, Laravel, atau web development**
 - 📫 Reach me: **[your-email@gmail.com](mailto:your-email@gmail.com)**
 
@@ -98,7 +98,7 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/962ac0f4-828e-4f73-9151-10d58cbb8935" width="120px" alt="footer gif" />
+<img src="https://github.com/user-attachments/assets/6da52ec5-4af3-4817-8a25-03a8fe044bc3" width="120px" alt="footer gif" />
 
 <br/>
 
