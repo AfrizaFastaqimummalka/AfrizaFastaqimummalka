@@ -25,11 +25,11 @@
 
 ### About Me
 
-- 🔭 I AM SUAMI RAIDEN MEI
-- 🌱 IMPHNEN JALAN NINJAKU
-- 🏠 ISEKAI MY HOPE
-- 💬 Miaw is Miaw **Next.js, Django, Laravel,VB atau web development**
-- 📫 Reach me: **[afrizafasta43@gmail.com](afrizafasta43@gmail.com)**
+- 🔭 Sedang mengerjakan project web full stack
+- 🌱 Terus belajar hal-hal baru di dunia teknologi
+- 🏠 Based in Indonesia
+- 💬 Tanya saya soal **Next.js, Django, Laravel, atau web development**
+- 📫 Reach me: **[your-email@gmail.com](mailto:your-email@gmail.com)**
 
 <br clear="right"/>
 
@@ -70,7 +70,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AfrizaFastaqimummalka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AfrizaFastaqimummalka&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=AfrizaFastaqimummalka&theme=tokyonight&hide_border=true" width="48%" />
 
 <br/><br/>
 
