@@ -66,7 +66,7 @@
 ---
 
 ### 📊 GitHub Stats
-
+<img src="https://github-readme-stats.vercel.app/api?username=AfrizaFastaqimummalka..." />
 <div align="center">
 
 <br/><br/>
