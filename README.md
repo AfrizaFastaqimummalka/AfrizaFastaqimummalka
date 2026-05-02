@@ -26,9 +26,9 @@
 ### About Me
 
 - 🗡️ I AM SUAMI RAIDEN MEI
-- 🗡️ IMPHNEN JALAN NINJAKU
+- 🥷 IMPHNEN JALAN NINJAKU
 - 🏠 ISEKAI MY HOPE
-- 💬 MIAW IS MIAW **Next.js, Django, Laravel,VB atau web development**
+- 💬 MIAW IS MIAW **Next.js, Django, Laravel, VB atau web development**
 - 📫 ZONO IS ZONO: **[afrizafasta43@gmail.com](mailto:afrizafasta43@gmail.com)**
 
 <br clear="right"/>
@@ -69,12 +69,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AfrizaFastaqimummalka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=AfrizaFastaqimummalka&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AfrizaFastaqimummalka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=AfrizaFastaqimummalka&theme=tokyonight&hide_border=true" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrizaFastaqimummalka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrizaFastaqimummalka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="48%" />
 
 </div>
 
